@@ -1,0 +1,19 @@
+{
+  "name": "serv_node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "aula",
+    "youtube"
+  ],
+  "author": "sergio-sousa",
+  "license": "ISC",
+  "description": "aplicação de estudos node.js",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
